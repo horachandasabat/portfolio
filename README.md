@@ -30,7 +30,7 @@ This portfolio was developed to demonstrate my capabilities in web development, 
 
 ## Demo
 
-You can view the live demo of my portfolio([your-live-demo-link](https://6723581e37cfc049469a96d7--horachanda-sabat-portfolio.netlify.app/)).
+You can view the live demo of my portfolio([your-live-demo-link](https://horachanda-sabat-portfolio.netlify.app/.app/)).
 
 ## Installation
 
@@ -41,4 +41,4 @@ To view the portfolio locally, follow these steps:
    git clone https://github.com/yourusername/your-portfolio.git
 
 live -->
-https://6723581e37cfc049469a96d7--horachanda-sabat-portfolio.netlify.app/
+https://horachanda-sabat-portfolio.netlify.app/.app/
